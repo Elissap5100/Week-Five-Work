@@ -59,6 +59,44 @@ Embeded Example:
 - Everything worked fine! I had some trouble starting up th server, but to fix that I simply had to follow the steps in the Anaconda Command Prompt rather than my basic commandline.
 - I will attempt to upload it to my repository for this week!
 
+**I will be honest in saying I finished the notes page for this week but I think I forgot to "comit changes" and I lost the rest of my work after this point... so my notes forward will be alot less detailed than usual. Although I did not run into any large issues for most of the tasks so there was not too much to document.**
 
+### Adding a new layer to our map
 
+- No big issues here... I ran into a small bump creating the local server but I was able to fix it by using the Anaconda prompt rather than the command line.
 
+### Georectifying a base map
+
+- This process went very smoothly as well!
+
+![Issue](https://github.com/Elissap5100/Week-Five-Work/blob/master/Map1.PNG)
+
+### Adding a layer control button
+
+- No issues in this step!
+
+![Issue](https://github.com/Elissap5100/Week-Five-Work/blob/master/Map2.PNG)
+
+### Adding animation
+
+- I had a small amount of trouble doing this step but I believe it worked in the end! I tried to take a pictire of the end result.
+
+![Issue](https://github.com/Elissap5100/Week-Five-Work/blob/master/Map3.PNG)
+
+### Sprucing up a Picture in Inkscape
+
+- Although I have some expirience in graphic design and poster design... I had never used this software before. I have to say, turning the individual elements  in a PDF into editable components was new to me, and will prove to be very helpful in the future!
+- Here is my final poster design:
+
+![Issue](https://github.com/Elissap5100/Week-Five-Work/blob/master/drawing.png)
+
+### Make an Academic Poster
+
+- I honestly do not have any acedemic essays or paper I think would work for this (I have many short and sweet journal articles), but I did attempt to turn one of my project proposals into a poster.
+- I will put the original project in the repository to look at for reference.
+
+![Issue](DFGHJK)
+
+### Static Website
+
+- Here is the link to my static website: https://elissap5100.github.io/our-username.github.io/
