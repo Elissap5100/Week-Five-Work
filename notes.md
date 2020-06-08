@@ -59,6 +59,32 @@ Embeded Example:
 - Everything worked fine! I had some trouble starting up th server, but to fix that I simply had to follow the steps in the Anaconda Command Prompt rather than my basic commandline.
 - I will attempt to upload it to my repository for this week!
 
+### Georectifying a base map
 
+- This worked fine! I had trouble finding a new map on the archive website, so I used the one you provided.
+
+![Chart](https://github.com/Elissap5100/Week-Five-Work/blob/master/Map1.PNG)
+
+### Adding a layer control button
+
+- No issues here!
+
+![Chart](https://github.com/Elissap5100/Week-Five-Work/blob/master/Map2.PNG)
+
+### Adding animation
+
+- This one took me abit of ime to work but I think I got it!
+
+![Chart](https://github.com/Elissap5100/Week-Five-Work/blob/master/Map3.PNG)
+
+### Sprucing up a PDF in Inkscape
+
+- Although I have expirience in poster design and graphic design, I had never used inkscape or edited a Pdf like this before. (having the components turn into individual elements was a good skill to learn!
+
+![Chart](https://github.com/Elissap5100/Week-Five-Work/blob/master/drawing.png)
+
+### Make an Academic Poster
+
+- WILL DO SOON
 
 
