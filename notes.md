@@ -19,11 +19,14 @@
 
 ## Task Notes
 
-### Podcasting
+### Podcasting - Green Eggs and Ham 
 
 - I would like to start off by saying that I was not sure what to record for the audacity tutorial you linked in this section so I just read a snip-it of "Green Eggs and Ham" by Doctor Seuss (https://www.site.uottawa.ca/~lucia/courses/2131-02/A2/trythemsource.txt). For some reason a person from Ottawa U posted the entire text online in a basic text file... so thank you for that.
 - The completed file is in my repository
-- I am not sure if you will listen to this tuorial... just know it was a completely uneccessary reading of Green Eggs and Ham with some classical music and basic audio editing skills thrown in there. All that's to say that I do feel comfortable for the next part of this week's task. 
+- I am not sure if you will listen to this tutorial... just know it was a completely uneccessary reading of Green Eggs and Ham with some classical music and basic audio editing skills thrown in there. All that's to say that I do feel comfortable for the next part of this week's task. 
+
+### Podcasting - 5 Min DH Rant
+
 - I completed my mini Podcast rant. it was abit weird to record my own voice, but I actually enjoyed it. I wish I was better and editing audio/putting my ideas all together... but I had fun doing it and I earned abit more about the software. I used a few extra "effects" than the orginal tutorial and I am proud of that!
 - As a challenge next time, I might try to add little sound effects at specific parts.. it might be fun!
 - This link to the "background music" I used in this 'Podcast': https://www.youtube.com/watch?v=_LFY5FZ0Zgs (royalty free)
@@ -33,9 +36,29 @@
 
 - I tried to look for my own set of data to play around with, so I would understand how the music more closely related to the data it was representing but I could not find anything. That is mainly because I was unsure where to look and what exactly to look for. Although,This gave me a chance to play around with the auditory options in TwoTone quite abit and learn alot abut how the changes could be used to better represent data.
 - To be fair, I know absolutely nothing about music.All of my observations are based purely on what I feel as an untrained ear and historian.
-- I mentioned this at the beginning of this nte, but the representation of data via music is super impactful to me. Playing around with the different notes, instruments and tempos, I leanred that these variables can truely be manipulated and layered on top of one another to create a sort of aura or 'vibe' that sounds are famous for. 
+- I mentioned this at the beginning of this note, but the representation of data via music is super impactful to me. Playing around with the different notes, instruments and tempos, I leanred that these variables can truely be manipulated and layered on top of one another to create a sort of aura or 'vibe' that sounds are famous for. 
 - If the data you are representing is darker or somber, you can set the mood with lower notes and a slower tempo to represent the dark context of the data. Or if it is something more 'alive' or lighter, you can use higher notes, lighter instruments and a mix of medium to fast tempos for the layered music. 
 - The program seemingly does this on its own, but when there is a spike in the data, it obviouly coneys this in its sound. This creates meaningful chages in the song to represent the data. It goes from mild/smaller sounds for smaller/common numbers to loud and intense spikes in the audio to represent those data points that stick out. This is also helpful to show major changes in the data.
 - Overall, I am finding that audio is a very refreshing, effective and meaningful way to represent data. It tells a story in a way most people are familiar with in one way or another - that being music and sound - but in a different context. I really like this and would love to see more examples of this with both history and other content.
 - As always, my creation is in the repository.
+
+### Telling Stories with StoryMaps
+
+I was not sure what to cover, so I simply mapped out the 7 Wonders of the World. All the information (pictures, text, location, etc) was taken from this website: https://www.travelchannel.com/interests/outdoors-and-adventure/articles/new-seven-wonders-of-the-world
+
+Here is the link: https://uploads.knightlab.com/storymapjs/06af2dd60026226f1e0a9ea7326aac8d/digital-history-3814/index.html
+
+Embeded Example: 
+
+<iframe src="https://uploads.knightlab.com/storymapjs/06af2dd60026226f1e0a9ea7326aac8d/digital-history-3814/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+### Webmapping with Leaflet
+
+- **Jamaican Slave Revolt** : I took a few minutes to look through this map and I am so impressed. It is so well done and informative, but also very pleasing to the eye,
+
+- Everything worked fine! I had some trouble starting up th server, but to fix that I simply had to follow the steps in the Anaconda Command Prompt rather than my basic commandline.
+- I will attempt to upload it to my repository for this week!
+
+
+
 
