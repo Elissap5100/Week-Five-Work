@@ -87,4 +87,7 @@ Embeded Example:
 
 - WILL DO SOON
 
+### Static Website 
+
+- I am unsure if this was done corretly, but here is the link: https://github.com/Elissap5100/our-username.github.io/blob/master/index.md
 
