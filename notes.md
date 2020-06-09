@@ -100,7 +100,7 @@ Due to the nature of this project, I decided to make a timeline poster using Can
 
 ![Issue](https://github.com/Elissap5100/Week-Five-Work/blob/master/AcademicPoster.png)
 
-- *Make notes in your representation from the point of view of layout: what elements of the design work? What aren’t working? How would you repurpose this poster to fit the requirements of the assessment exercise*
+*Make notes in your representation from the point of view of layout: what elements of the design work? What aren’t working? How would you repurpose this poster to fit the requirements of the assessment exercise*
 - I decided to not go with any of the layouts given simply because they did not fit the information I ws attempting to display. The information I had at my disposal was essentially best displayed as a time line. A viewer would most easily digest the information in the form of a chronological timeline.
 - I tried to condense the article into the main points to be digested, introduced the subject and kept away from distrating elements. In my opinion, it is an easily understood and aesthetically pleasing academic poster.
 
