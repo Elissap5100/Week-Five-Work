@@ -92,10 +92,17 @@ Embeded Example:
 
 ### Make an Academic Poster
 
-- I honestly do not have any acedemic essays or paper I think would work for this (I have many short and sweet journal articles), but I did attempt to turn one of my project proposals into a poster.
-- I will put the original project in the repository to look at for reference.
+- I honestly do not have any acedemic essays or paper I think would work for this (I have many short and sweet journal articles), but I did attempt to turn one of my longer project into a poster. This year for my media wriing course, we created a digital narrative about a famous figure using about 10 different journal articles I wrote throughout the semester.
+- I will put the original project link below to look at for reference.
+- https://cuportfolio.carleton.ca/view/view.php?id=375065
 
-![Issue](DFGHJK)
+Due to the nature of this project, I decided to make a timeline poster using Canva. I am more familiar with the program and it was easier to get done.
+
+![Issue](https://github.com/Elissap5100/Week-Five-Work/blob/master/AcademicPoster.png)
+
+- *Make notes in your representation from the point of view of layout: what elements of the design work? What aren’t working? How would you repurpose this poster to fit the requirements of the assessment exercise*
+- I decided to not go with any of the layouts given simply because they did not fit the information I ws attempting to display. The information I had at my disposal was essentially best displayed as a time line. A viewer would most easily digest the information in the form of a chronological timeline.
+- I tried to condense the article into the main points to be digested, introduced the subject and kept away from distrating elements. In my opinion, it is an easily understood and aesthetically pleasing academic poster.
 
 ### Static Website
 
